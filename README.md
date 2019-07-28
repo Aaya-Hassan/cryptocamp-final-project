@@ -28,4 +28,4 @@ You must migrate the election smart contract each time your restart ganache.
 Open URL in your browser: http://localhost:3000
 
 ## Step 6. Application demo
-![demo](src/images/Media1.mp4)
+![Farmers Market Finder - Animated gif demo](src/images/Media1.gif)
