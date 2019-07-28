@@ -29,6 +29,7 @@ Open URL in your browser: http://localhost:3000
 
 ## Step 6. What does project do
 Voting Smart Contract :
+
 Create an voting smart contract that operates on Ethereum on the blockchain
 
 - There are a list of candidates that the administrator of elections.
